@@ -59,7 +59,7 @@ function Dashboard() {
             <span className="font-medium">Welcome back</span>
           </div>
           <h1 className="mt-2 text-3xl font-semibold tracking-tight text-white md:text-4xl">
-            Your AI workplace, organized.
+            Leon Sive Joja
           </h1>
           <p className="mt-2 max-w-2xl text-sm text-white/80 md:text-base">
             Automate the busywork — write emails, summarize meetings, plan projects, and
